@@ -20,7 +20,6 @@ public class House_Practice {
 
         System.out.println(house1);
 
-
         System.out.println("\n---------more objects--------\n");
         House house2 = new House();
         House house3 = new House();
