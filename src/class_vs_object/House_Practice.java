@@ -34,7 +34,6 @@ public class House_Practice {
         System.out.println(house4);
         System.out.println(house5);
 
-
         House house6 = new House(200000, 2020);
         System.out.println(house6);
     }
